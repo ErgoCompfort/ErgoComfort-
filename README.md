@@ -133,6 +133,12 @@
 <footer>
     <p>&copy; 2024 ErgoComfort | Ergonomie neu definiert</p>
 </footer>
-
+<div class="product">
+    <img src="https://www.flexispot.de/media/catalog/product/cache/a2b2fbe7e98e33bca37c61682bc44a1f/b/s/bs4s.jpg" alt="Ergonomischer Vollnetz-Bürostuhl BS4">
+    <h3>Ergonomischer Vollnetz-Bürostuhl BS4</h3>
+    <p>Der perfekte Bürostuhl mit Vollnetzdesign und Lendenwirbelstütze.</p>
+    <p><strong>Preis: 299,99 €</strong></p>
+    <a href="https://www.flexispot.de/backsupport-burostuhl-bs4.html" target="_blank"><button>Kaufen</button></a>
+</div>
 </body>
 </html>
